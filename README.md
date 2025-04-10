@@ -30,9 +30,9 @@ This project predicts weekly sales for retail stores using machine learning mode
     - [Seaborn](https://seaborn.pydata.org): Data visualisation
 
 - Tools:
-    - [Git](https://git-scm.com): version control
-    - [Jupyter Notebook](https://jupyter.org): interactive development
-    - [VS Code](https://code.visualstudio.com): final development and README file development
+    - [Git](https://git-scm.com): Version control
+    - [Jupyter Notebook](https://jupyter.org): Interactive development
+    - [VS Code](https://code.visualstudio.com): Final development and README file development
 
 ---
 
