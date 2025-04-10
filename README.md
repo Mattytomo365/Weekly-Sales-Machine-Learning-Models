@@ -20,20 +20,32 @@ This project predicts weekly sales for retail stores using machine learning mode
 
 ## Technologies Used
 
+- Programming Language: Python
 
+- Libraries & Frameworks:
+    - [Pandas](https://pandas.pydata.org): Data manipulation
+    - [NumPy](https://numpy.org): Numerical operations
+    - [Scikit-learn](https://scikit-learn.org/stable/): Machine learning model implementation
+    - [Matplotlib](https://matplotlib.org): Data visualisation
+    - [Seaborn](https://seaborn.pydata.org): Data visualisation
+
+- Tools:
+    - [Git](https://git-scm.com): version control
+    - [Jupyter Notebook](https://jupyter.org): interactive development
+    - [VS Code](https://code.visualstudio.com): final development and README file development
 
 ---
 
 ## Project Structure
 
-CW2_code
-├── CW2_code.py # Main Python script containing the implementation 
-├── train.csv # Training dataset 
-├── test.csv # Test dataset 
-├── stores.csv # Store metadata 
-├── features.csv # Additional features for the datasets 
-├── README.md # Project documentation 
-├── Report.docx # Detailed project report
+CW2_code<br/>
+├── CW2_code.py # Main Python script containing the implementation<br/>
+├── train.csv # Training dataset<br/>
+├── test.csv # Test dataset<br/>
+├── stores.csv # Stores data<br/>
+├── features.csv # Additional features for the datasets<br/>
+├── README.md # Project documentation<br/>
+├── Report.docx # Detailed project report<br/>
 
 ---
 
@@ -41,18 +53,20 @@ CW2_code
 
 ### Prerequisites
 
-
+- Python 3.8+
+- pip (Python package manager)
+- Git (for cloning the repository)
 
 ### Installation
 
 1. Clone the repository:
 
     ```
-    git clone <repository_url>
-    cd <repository_folder>
+    git clone https://github.com/Mattytomo365/Weekly-Sales-Machine-Learning-Models.git
+    cd Weekly-Sales-Machine-Learning-Models
     ```
 
-2. Install dependencies
+2. Install dependencies:
 
     ```
     pip install -r requirements.txt
