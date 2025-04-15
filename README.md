@@ -38,14 +38,14 @@ This project predicts weekly sales for retail stores using machine learning mode
 
 ## Project Structure
 ```
-CW2_code<br/>
-├── CW2_code.py # Main Python script containing the implementation<br/>
-├── train.csv # Training dataset<br/>
-├── test.csv # Test dataset<br/>
-├── stores.csv # Stores data<br/>
-├── features.csv # Additional features for the datasets<br/>
-├── README.md # Project documentation<br/>
-├── Report.docx # Detailed project report<br/>
+CW2_code
+├── CW2_code.py         # Main Python script containing the implementation
+├── train.csv           # Training dataset
+├── test.csv            # Test dataset
+├── stores.csv          # Stores data
+├── features.csv        # Additional features for the datasets
+├── README.md           # Project documentation
+├── Report.docx         # Detailed project report
 ```
 ---
 
