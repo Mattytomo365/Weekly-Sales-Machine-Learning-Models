@@ -74,7 +74,7 @@ CW2_code<br/>
 
 ### Usage
 
-1. Place the datasets (train.csv, test.csv, stores.csv, features.csv) in the project directory.
+1. Place the datasets (`train.csv`, `test.csv`, `stores.csv`, `features.csv`) in the project directory.
 
 2. Run the main script:
 
