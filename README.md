@@ -4,7 +4,7 @@
 
 ## Overview
 
-This contributed towards my Artificial Intelligence and Machine Learning module at university. It consists of two machine learning models (Random Forest Regressor & Gradient Boosting Regressor), these models aim to predict the weekly sales for a large retail company, taking the affects of holiday periods into effect. Both models used are evaluated, tuned for optimal performance and compared. Both models are trained using historical data contained in datasets.
+This project consists of two machine learning models (Random Forest Regressor & Gradient Boosting Regressor), these models aim to predict the weekly sales for a large retail company, taking the affects of holiday periods into effect. Both models used are evaluated, tuned for optimal performance and compared. Both models are trained using historical data contained in datasets.
 
 ---
 
