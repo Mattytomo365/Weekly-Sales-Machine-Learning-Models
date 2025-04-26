@@ -63,14 +63,16 @@ CW2_code
 
     ```
     git clone https://github.com/Mattytomo365/Weekly-Sales-Machine-Learning-Models.git
-    cd Weekly-Sales-Machine-Learning-Models
     ```
 
-2. Install dependencies:
+2. Navigate to the project directory:
 
     ```
-    pip install -r requirements.txt
+    cd Weekly_Sales_Models
     ```
+
+
+3. Download necessary resources.
 
 ### Usage
 
