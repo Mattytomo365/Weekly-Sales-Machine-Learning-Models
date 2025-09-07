@@ -4,7 +4,9 @@
 
 ## Overview
 
-This project consists of two machine learning models (Random Forest Regressor & Gradient Boosting Regressor), these models aim to predict the weekly sales for a large retail company, taking the affects of holiday periods into effect. Both models used are evaluated, tuned for optimal performance and compared. Both models are trained using historical data contained in datasets.
+This Python project builds and compares two regression models to forecast weekly retail sales, accounting for holiday affects.
+
+Historical datasets are cleaned, merged, and features are engineered prior to training the models. Hyperparameter tuning is performed based off evaluation metrics (e.g. RMSE, MAE, R^2) using time-aware splits.
 
 ---
 
