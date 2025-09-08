@@ -3,6 +3,7 @@
 ---
 
 ## Overview
+Completed as part of an AI & Machine Learning module towards my degree.
 
 This Python project builds and compares two regression models to forecast weekly retail sales, accounting for holiday affects.
 
